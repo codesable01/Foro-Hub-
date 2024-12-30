@@ -40,8 +40,8 @@ Para ejecutar el proyecto localmente, sigue estos pasos:
 
 Aquí puedes ver el **resultado** en acción:
 
-!![image](https://github.com/user-attachments/assets/545d93ec-7542-4491-a3fe-cfb516ff2bfb)
-)
+![image](https://github.com/user-attachments/assets/545d93ec-7542-4491-a3fe-cfb516ff2bfb)
+
 
 ---
 
